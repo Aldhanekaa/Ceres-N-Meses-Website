@@ -16,7 +16,7 @@
         :class="{ 'flex fixed': showMenu, hidden: !showMenu }"
       >
         <div
-          class="flex-col w-full h-auto overflow-hidden bg-white rounded-lg md:bg-transparent md:overflow-visible md:rounded-none md:relative md:flex md:flex-row"
+          class="flex-col w-full h-auto overflow-hidden bg-white rounded-lg md:bg-transparent md:overflow-visible md:rounded-none md:relative md:flex md:flex-row justify-end	"
         >
           <a
             href="#_"
