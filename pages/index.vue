@@ -26,7 +26,7 @@
           <div class="flex flex-col items-center mt-12 text-center">
             <span class="relative inline-flex w-full md:w-auto">
               <a
-                href="#_"
+                href="/slides/overview.html#slide=1"
                 type="button"
                 id="see"
                 class="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-indigo-600 border border-transparent rounded-full md:w-auto hover:bg-indigo-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-600"
@@ -104,8 +104,7 @@
             <div>
               <h4 class="text-xl font-medium text-gray-800">Design concept</h4>
               <p class="max-w-lg mt-4 text-gray-600">
-                Vitae nulla nunc euismod vel nunc euismod velpretium tellus
-                accumsan nulla nunc euismod ve semper.
+                Designing the concept and the placement of censors.
               </p>
             </div>
           </div>
@@ -126,13 +125,10 @@
 
             <div>
               <h4 class="text-xl font-medium text-gray-800">
-                Developing websites
+                Developing Arduino
               </h4>
               <p class="max-w-lg mt-4 text-gray-600">
-                Vitae nulla euismod velpretium tellus accumsan nulla nunc
-                euismod ve semper. Vitae nulla euismod velpretium tellus
-                accumsan nulla nunc euismod ve semper. Vitae nulla euismod
-                velpretium tellus accumsan nulla nunc euismod ve semper.
+                Developing the code for the arduino to work well.
               </p>
             </div>
           </div>
@@ -156,7 +152,7 @@
 
           <a
             class="block px-8 py-2 mt-6 text-lg font-medium text-center text-white transition-colors duration-300 transform bg-indigo-600 rounded md:mt-0 hover:bg-indigo-500"
-            href="#"
+            href="/slides/overview.html#slide=1"
             >Read the story!</a
           >
         </div>
