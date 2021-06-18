@@ -150,10 +150,10 @@
             </p>
           </div>
 
-          <a
+          <NuxtLink
             class="block px-8 py-2 mt-6 text-lg font-medium text-center text-white transition-colors duration-300 transform bg-indigo-600 rounded md:mt-0 hover:bg-indigo-500"
-            href="/slides/overview.html#slide=1"
-            >Read the story!</a
+            to="/slides/#slide=1"
+            >Read the story!</NuxtLink
           >
         </div>
       </div>
